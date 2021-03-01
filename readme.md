@@ -2,7 +2,7 @@
 
 ### Demo
 
-[![CityDemo](https://github.com/maherobaid15/PrCity/blob/main/res/city.png)]
+![CityDemo](https://github.com/maherobaid15/PrCity/blob/main/res/city.png)
 
 There are three types of buildings, stacked, tiled, and rectangular.
 
