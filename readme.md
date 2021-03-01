@@ -6,4 +6,4 @@
 
 There are three types of buildings, stacked, tiled, and rectangular.
 
-The city is a combination of the random buildings and a skybox
+The city is a combination of the random buildings with normal mapping and a skybox.
